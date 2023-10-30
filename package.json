@@ -1,0 +1,17 @@
+{
+  "name": "practica",
+  "version": "1.0.0",
+  "description": "practicas con alan",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "author": "nestor",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
